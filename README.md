@@ -8,4 +8,5 @@ IMG
 
 ## [BanG Dream Simulator - YouTube](https://www.youtube.com/watch?v=m2c1vNk8lVE) 
 Besides normal notes, flick notes and slide notes are also used. 
+
 There seems to be a unique gimmick that does not exist in the original.
